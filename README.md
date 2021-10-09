@@ -1,2 +1,3 @@
-# hello-world
-This is my code repository.
+# CodedAndy01
+My journey into code began when I saw the beauty in logic, or when I understood why a Line is just a part of a Circle of Infinate radius.
+Now the story begins...
